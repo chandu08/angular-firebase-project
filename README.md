@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # LoginApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
@@ -30,3 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # angular7Firebase
 This is firebase login and angular7
 >>>>>>> b0c89ec48acea1e39ec6e3a6ce91d2aa1deec08e
+=======
+# angular-firebase-project
+>>>>>>> 6b0a0427e52d850442c787c5dd43d87b786a2792
